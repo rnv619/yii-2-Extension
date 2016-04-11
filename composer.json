@@ -1,0 +1,21 @@
+{
+    "name": "imagecrop/yii2-imagecrop",
+    "description": "Fengyuanchen image crop in yii2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranva Rahul",
+            "email": "rahul.r@innovify.in"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\imagecrop\\": ""
+        }
+    }
+}
